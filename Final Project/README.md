@@ -11,3 +11,10 @@ The final project has two distinct sections: **Testing section** and **SQL secti
 The tools I used for this project: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 # Functional Specifications
+
+For my final project I chose Qualifications – Work Experience section. The Story is created in JIRA and describes the functional specifications of the employee Work Experience sections. 
+
+
+***As a user I want to be able to add my Work Experience.***
+
+![Story](https://user-images.githubusercontent.com/56273858/167291946-5a425123-3129-4ca7-9f0c-bc1ecb817815.jpg)
