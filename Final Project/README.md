@@ -29,3 +29,16 @@ The primary objective for the Test Planning phase is to give information that de
 The Test Plan offer a clear guide that identifies the features to be tested, the types of testing to be performed, the persons responsible for testing, the resources and the schedule required to complete testing and the risks associated.
 
 ### 1.1.1. Roles assigned to the project and persons allocated
+
+Roles needed for the project are allocated:
+- Project manager - Ovidiu  
+- Product owner - Ramona
+- Software developer - Gabriela
+- QA Engineer - Daniela 
+
+### 1.1.2. Entry criteria defined
+
+Entry criteria defined, are closely related to the purpose of the Test Plan. They are the prerequisite items that must be completed before testing begin:
+- functional specifications are defined, according to business requirements
+- complete understanding of the application flow is required and, for this, the requirement document must be available
+- a JIRA account is created
