@@ -42,3 +42,13 @@ Entry criteria defined, are closely related to the purpose of the Test Plan. The
 - functional specifications are defined, according to business requirements
 - complete understanding of the application flow is required and, for this, the requirement document must be available
 - a JIRA account is created
+
+### 1.1.3. Exit criteria defined
+
+The exit criteria defined establish when testing activities can be declared complete. The following Exit criteria must be met in order to conclude testing:
+- all tests have been executed 
+- all resolved bugs have been re-tested and approved by the QA team
+- number of unresolved bugs is insignificant or they have low priority 
+- there are no other major risks for the project
+- exploratory regression testing must be performed on the My Info module, which includes the Qualifications – Work Experience section 
+- deadline is reached – 01.06.2022
