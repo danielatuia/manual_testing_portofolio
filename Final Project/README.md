@@ -18,3 +18,14 @@ For my final project I chose Qualifications – Work Experience section. The Sto
 ***As a user I want to be able to add my Work Experience.***
 
 ![Story](https://user-images.githubusercontent.com/56273858/167291946-5a425123-3129-4ca7-9f0c-bc1ecb817815.jpg)
+
+
+# 1. Testing Section
+
+## 1.1. Test Planning phase
+
+The primary objective for the Test Planning phase is to give information that describe all details of testing and how will be tested the Qualifications - Work Experience section, from the OrangeHRM application.
+
+The Test Plan offer a clear guide that identifies the features to be tested, the types of testing to be performed, the persons responsible for testing, the resources and the schedule required to complete testing and the risks associated.
+
+### 1.1.1. Roles assigned to the project and persons allocated
