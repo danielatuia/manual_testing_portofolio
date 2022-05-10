@@ -58,3 +58,9 @@ For minimazing the potential threats, all the features of the Qualifications –
 So:
 - **in scope testing**: Blackbox Functional Testing, Non-functional Testing (more exactly - Usability Testing), GUI Testing and API Testing - will be performed 
 - **out of scope**: Whitebox Testing, Performance Testing, Integrations of the dependents module with other modules - will not be performed
+
+#### 1.1.5. Risks detected
+Initial project risks were detected and mitigated, for instance plan training course or set test priority.
+The following risks have been detected:
+- project risks - lack of experience of the QA team, short trial for JIRA/Zephyr Squad, gaps in the API testing knowledge
+- product risks - validation constraints on the fields might be too restrictive to the end-user  
