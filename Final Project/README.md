@@ -52,3 +52,9 @@ The exit criteria defined establish when testing activities can be declared comp
 - there are no other major risks for the project
 - exploratory regression testing must be performed on the My Info module, which includes the Qualifications – Work Experience section 
 - deadline is reached – 01.06.2022
+
+### 1.1.4. Test scope
+For minimazing the potential threats, all the features of the Qualifications – Work Experience section which were defined in software requirements need to be tested. 
+So:
+- **in scope testing**: Blackbox Functional Testing, Non-functional Testing (more exactly - Usability Testing), GUI Testing and API Testing - will be performed 
+- **out of scope**: Whitebox Testing, Performance Testing, Integrations of the dependents module with other modules - will not be performed
