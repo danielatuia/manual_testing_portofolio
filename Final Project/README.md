@@ -69,10 +69,19 @@ The following risks have been detected:
 
 The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
 
-## 1.2. Test Monitoring and Control
+## 1.2. Test Monitoring and Control phase
 Periodic reports are generated in order to track current progress of the testing process. Based on results of the test monitoring process and in case of major problems, control measures could be taken: test activities are prioritized, test schedule is revised and other changes related to testing activities are made in order to improve the quality and efficiency of future testing process. 
 The following status report was generated after 47% of the test cases were executed, on May 6th, 2022:
 
 ![Test Summary](https://user-images.githubusercontent.com/56273858/167906900-2a261e07-5974-4af4-8e1e-e1fa505587ea.jpg)
 ![Daily Test Execution Progress](https://user-images.githubusercontent.com/56273858/167906944-4c426c1f-e6d9-48f0-921a-029790a28423.jpg)
 ![Execution list](https://user-images.githubusercontent.com/56273858/167907083-6cca4d28-2666-4a3c-a6ba-566fec5df4ed.jpg)
+
+## 1.3. Test Analysis phase
+The testing process will be executed based on the above requirements for the Qualifications - Work Experience section. 
+The following test conditions were identified:
+- Enter data only for mandatory fields and check that the Work Experience record is created or edited
+- Enter data for all available fields and check that the Work Experience record is created or edited 
+- Leave mandatory fields empty and check that the Work Experience record cannot be created or edited
+- View all records about Work Experience added in a list 
+- Check all validation constraints for the fields 
