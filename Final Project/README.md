@@ -95,4 +95,5 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 ![Test_cases](https://user-images.githubusercontent.com/56273858/167915185-79e2786a-eaed-4ca9-9dbf-0b6a6c26ada0.jpg)
 
 The test cases steps can be viewed here: 
-[employee_work_experience_test_cases.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8673173/employee_work_experience_test_cases.xlsx)
+[Employee_work_experience_test_cases.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8673239/Employee_work_experience_test_cases.xlsx)
+
