@@ -78,7 +78,8 @@ The following status report was generated after 47% of the test cases were execu
 ![Execution list](https://user-images.githubusercontent.com/56273858/167907083-6cca4d28-2666-4a3c-a6ba-566fec5df4ed.jpg)
 
 ## 1.3. Test Analysis phase
-The testing process will be executed based on the above requirements for the Qualifications - Work Experience section. 
+The testing process will be executed based on the above business requirement for the Qualifications - Work Experience section, more exactly ***The user should be able to add his Work Experience.***
+
 The following test conditions were identified:
 - Enter data only for mandatory fields and check that the Work Experience record is created or edited
 - Enter data for all available fields and check that the Work Experience record is created or edited 
