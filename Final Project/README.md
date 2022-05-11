@@ -64,3 +64,15 @@ Initial project risks were detected and mitigated, for instance plan training co
 The following risks have been detected:
 - project risks - lack of experience of the QA team, short trial for JIRA/Zephyr Squad, gaps in the API testing knowledge
 - product risks - validation constraints on the fields might be too restrictive to the end-user  
+
+### 1.1.6. Evaluating entry criteria
+
+The entry criterias defined in the Test Planning phase have been achieved and the test process can continue.
+
+## 1.2. Test Monitoring and Control
+Periodic reports are generated in order to track current progress of the testing process. Based on results of the test monitoring process and in case of major problems, control measures could be taken: test activities are prioritized, test schedule is revised and other changes related to testing activities are made in order to improve the quality and efficiency of future testing process. 
+The following status report was generated after 47% of the test cases were executed, on May 6th, 2022:
+
+![Test Summary](https://user-images.githubusercontent.com/56273858/167906900-2a261e07-5974-4af4-8e1e-e1fa505587ea.jpg)
+![Daily Test Execution Progress](https://user-images.githubusercontent.com/56273858/167906944-4c426c1f-e6d9-48f0-921a-029790a28423.jpg)
+![Execution list](https://user-images.githubusercontent.com/56273858/167907083-6cca4d28-2666-4a3c-a6ba-566fec5df4ed.jpg)
