@@ -86,3 +86,12 @@ The following test conditions were identified:
 - Leave mandatory fields empty and check that the Work Experience record cannot be created or edited
 - View all records about Work Experience added in a list 
 - Check all validation constraints for the fields 
+
+## 1.4. Test Design phase
+Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
+
+**Test Cases:**
+
+![Test_cases](https://user-images.githubusercontent.com/56273858/167915185-79e2786a-eaed-4ca9-9dbf-0b6a6c26ada0.jpg)
+
+The test cases steps can be viewed here: 
