@@ -81,11 +81,11 @@ The following status report was generated after 47% of the test cases were execu
 The testing process will be executed based on the above business requirement for the Qualifications - Work Experience section, more exactly ***The user should be able to add his Work Experience.***
 
 The following test conditions were identified:
-- Enter data only for mandatory fields and check that the Work Experience record is created or edited
-- Enter data for all available fields and check that the Work Experience record is created or edited 
-- Leave mandatory fields empty and check that the Work Experience record cannot be created or edited
-- View all records about Work Experience added in a list 
-- Check all validation constraints for the fields 
+- enter data only for mandatory fields and check that the Work Experience record is created or edited
+- enter data for all available fields and check that the Work Experience record is created or edited 
+- leave mandatory fields empty and check that the Work Experience record cannot be created or edited
+- view all records about Work Experience added in a list 
+- check all validation constraints for the fields 
 
 ## 1.4. Test Design phase
 Functional test cases were created in Zephyr Squad. Based on the analysis of the specifications, the test design techniques used for generating test cases are boundary value analysis, equivalence partitioning and use case testing.
@@ -98,3 +98,15 @@ The test cases steps can be viewed here:
 [Employee_work_experience_test_cases.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8673249/Employee_work_experience_test_cases.xlsx)
 
 For the employee Work Experience API, in the attached document you can check which tests will be performed for each method:
+
+## 1.5. Test Implementation phase
+
+The following items must be up to date, so that the test execution phase can start:
+
+    - testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+    - access to the testing environment is given with the following credentials: Username : Admin | Password : admin123
+    - Cycle Summary was created in Zephyr Squad
+    - test cases were added to the Cycle Summary
+    - Postman collection with the dependents API methods was created
+    - authorization token was created for accessing the API
+
