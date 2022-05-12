@@ -119,4 +119,6 @@ Here can be verified the status of executed test cases on the created Cycle Summ
 A complete bug report can be found here:
 [Employee_work_experience_bug_report.pdf](https://github.com/danielatuia/manual_testing_portofolio/files/8681361/Employee_work_experience_bug_report.pdf)
 
-For failed tests, bugs have been created in Jira with a priority level set.
+For failed tests, bugs have been created in Jira with a priority level set:
+- for the *From* and *To* fields date format is not dd-mm-yyyy
+- user can save action when *From* and *To* fields input is a future date
