@@ -115,3 +115,6 @@ Test Execution phase is done based on the test planning and test cases prepared 
 
 Here can be verified the status of executed test cases on the created Cycle Summary: 
 [Employee_work_experience_cycle_summary_execution.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8681203/Employee_work_experience_cycle_summary_execution.xlsx)
+
+For failed tests, bugs have been created in Jira with a priority level set. A complete bug report can be found here:
+[Employee_work_experience_bug_report.pdf](https://github.com/danielatuia/manual_testing_portofolio/files/8681361/Employee_work_experience_bug_report.pdf)
