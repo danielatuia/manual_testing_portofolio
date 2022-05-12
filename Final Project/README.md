@@ -103,10 +103,10 @@ For the employee Work Experience API, in the attached document you can check whi
 
 The following items must be up to date, so that the test execution phase can start:
 
-    - testing environment is up and running: https://opensource-demo.orangehrmlive.com/
-    - access to the testing environment is given with the following credentials: Username : Admin | Password : admin123
-    - Cycle Summary was created in Zephyr Squad
-    - test cases were added to the Cycle Summary
-    - Postman collection with the dependents API methods was created
-    - authorization token was created for accessing the API
+ - testing environment is up and running: https://opensource-demo.orangehrmlive.com/
+ - access to the testing environment is given with the following credentials: Username : Admin | Password : admin123
+ - Cycle Summary was created in Zephyr Squad
+ - test cases were added to the Cycle Summary
+ - Postman collection with the dependents API methods was created
+ - authorization token was created for accessing the API
 
