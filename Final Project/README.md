@@ -96,3 +96,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 
 The test cases steps can be viewed here: 
 [Employee_work_experience_test_cases.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8673249/Employee_work_experience_test_cases.xlsx)
+
+[Employee_work_experience_test_cases.csv](https://github.com/danielatuia/manual_testing_portofolio/files/8679125/Employee_work_experience_test_cases.csv)
+
+For the employee Work Experience API, in the attached document you can check which tests will be performed for each method:
