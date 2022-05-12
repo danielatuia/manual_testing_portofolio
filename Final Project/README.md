@@ -128,3 +128,5 @@ API tests are executed in Postman based on the checklist mentioned above. The co
 Regression Testing is executed after the bugs are fixed, to confirm that changes in the code has not affected the existing features and the functionalities work fine.
 
 ## 1.7. Test Completion phase
+
+As the Exit criteria were satisfied as mentioned above, testing can be concluded.
