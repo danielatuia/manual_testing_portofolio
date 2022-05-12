@@ -117,7 +117,7 @@ Here can be verified the status of executed test cases on the created Cycle Summ
 [Employee_work_experience_cycle_summary_execution.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8681203/Employee_work_experience_cycle_summary_execution.xlsx)
 
 A complete bug report can be found here:
-[Employee_work_experience_bug_report.pdf](https://github.com/danielatuia/manual_testing_portofolio/files/8681361/Employee_work_experience_bug_report.pdf)
+[Employee_work_experience_bug_report.pdf](https://github.com/danielatuia/manual_testing_portofolio/files/8682066/Employee_work_experience_bug_report.pdf)
 
 For failed tests, bugs have been created in Jira with a priority level set:
 - for the *From* and *To* fields date format is not dd-mm-yyyy
