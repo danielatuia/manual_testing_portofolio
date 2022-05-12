@@ -110,3 +110,4 @@ The following items must be up to date, so that the test execution phase can sta
  - Postman collection with the dependents API methods was created
  - authorization token was created for accessing the API
 
+## 1.6. Test Execution phase
