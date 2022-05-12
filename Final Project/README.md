@@ -111,3 +111,7 @@ The following items must be up to date, so that the test execution phase can sta
  - authorization token was created for accessing the API
 
 ## 1.6. Test Execution phase
+Test Execution phase is done based on the test planning and test cases prepared in Zephyr Squad.
+
+Here can be verified the status of executed test cases on the created Cycle Summary: 
+[Employee_work_experience_cycle_summary_execution.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8681203/Employee_work_experience_cycle_summary_execution.xlsx)
