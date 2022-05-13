@@ -137,4 +137,6 @@ As the Exit criteria were satisfied as mentioned above, testing can be concluded
 The traceability matrix was generated and can be found here:
 [Traceability_Matrix.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8689633/Traceability_Matrix.xlsx)
 
+Test execution chart was generated and the final report shows that a total of 2 tests out of a total of 23 failed.
 
+![Test Execution Chart](https://user-images.githubusercontent.com/56273858/168334724-aa8cbef3-609a-49ec-8b0b-754409990a86.jpg)
