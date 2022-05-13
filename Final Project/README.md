@@ -129,4 +129,12 @@ Regression Testing is executed after the bugs are fixed, to confirm that changes
 
 ## 1.7. Test Completion phase
 
-As the Exit criteria were satisfied as mentioned above, testing can be concluded.
+As the Exit criteria were satisfied as mentioned above, testing can be concluded:
+- 23 test cases were planned and all of them were executed
+- 21 test cases were passed and 2 were failed
+- 2 bugs were detected with medium priority
+
+The traceability matrix was generated and can be found here:
+[Traceability_Matrix.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8689633/Traceability_Matrix.xlsx)
+
+
