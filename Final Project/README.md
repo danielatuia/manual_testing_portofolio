@@ -126,6 +126,7 @@ For failed tests, bugs have been created in Jira with a priority level set:
 - user can save action when *From* and *To* fields input is a future date
 
 API tests are executed in Postman based on the checklist mentioned above. The collection used can be found here:
+[Postman_collection of requests created for the Employee Work Experience API.txt](https://github.com/danielatuia/manual_testing_portofolio/files/8709149/Postman_collection.of.requests.created.for.the.Employee.Work.Experience.API.txt)
 
 Regression Testing is executed after the bugs are fixed, to confirm that changes in the code has not affected the existing features and the functionalities work fine.
 
