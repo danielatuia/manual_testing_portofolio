@@ -151,3 +151,5 @@ Test execution chart was generated and the final report shows that a total of 2 
 ![Test Execution Chart](https://user-images.githubusercontent.com/56273858/168334724-aa8cbef3-609a-49ec-8b0b-754409990a86.jpg)
 
 ![Execution_list](https://user-images.githubusercontent.com/56273858/168335142-cf415d9f-0944-46ed-ae31-57e2ad2a32d0.jpg)
+
+# 2. SQL section
