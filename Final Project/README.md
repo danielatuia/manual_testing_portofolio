@@ -128,6 +128,12 @@ For failed tests, bugs have been created in Jira with a priority level set:
 API tests are executed in Postman based on the checklist mentioned above. The collection used can be found here:
 [Postman_collection of requests created for the Employee Work Experience API.txt](https://github.com/danielatuia/manual_testing_portofolio/files/8709149/Postman_collection.of.requests.created.for.the.Employee.Work.Experience.API.txt)
 
+Failed API tests:
+- employee work experiece can be saved when using all accepted parameters - failed because of the date format
+- employee work experiece can be updated successfully with all accepted parameters - failed because of the date format
+- an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers
+- an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers
+
 Regression Testing is executed after the bugs are fixed, to confirm that changes in the code has not affected the existing features and the functionalities work fine.
 
 ## 1.7. Test Completion phase
