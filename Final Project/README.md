@@ -153,3 +153,6 @@ Test execution chart was generated and the final report shows that a total of 2 
 ![Execution_list](https://user-images.githubusercontent.com/56273858/168335142-cf415d9f-0944-46ed-ae31-57e2ad2a32d0.jpg)
 
 # 2. SQL section
+
+The database created is named *orangehrm*. The tables are named *employees* and *workexperience*, created with all the columns needed to save information. Inside the sql file are performed different queries: [Orange HRM.txt](https://github.com/danielatuia/manual_testing_portofolio/files/8781063/Orange.HRM.txt)
+
