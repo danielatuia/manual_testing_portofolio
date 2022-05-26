@@ -154,5 +154,5 @@ Test execution chart was generated and the final report shows that a total of 2 
 
 # 2. SQL section
 
-The database created is named *orangehrm*. The tables are named *employees* and *workexperience*, created with all the columns needed to save information. Inside the sql file are performed different queries: [workExperience.txt](https://github.com/danielatuia/manual_testing_portofolio/files/8781141/workExperience.txt)
+The database created is named *orangehrm*. The tables are named *employees* and *workexperience*, created with all the columns needed to save information. Inside the sql file are performed different queries: [workExperience.sql](https://github.com/danielatuia/manual_testing_portofolio/blob/main/Final%20Project/workExperience.sql)
 
