@@ -31,10 +31,10 @@ The Test Plan offer a clear guide that identifies the features to be tested, the
 ### 1.1.1. Roles assigned to the project and persons allocated
 
 Roles needed for the project are allocated:
-- Project manager - Ovidiu  
-- Product owner - Ramona
-- Software developer - Gabriela
-- QA Engineer - Daniela 
+- Project manager - Ovidiu Iftime  
+- Product owner - Ramona Ionescu
+- Software developer - Gabriela Irimia
+- QA Engineer - Daniela Tuia 
 
 ### 1.1.2. Entry criteria defined
 
