@@ -123,8 +123,8 @@ A complete bug report can be found here:
 [Employee_work_experience_bug_report.pdf](https://github.com/danielatuia/manual_testing_portofolio/files/8682066/Employee_work_experience_bug_report.pdf)
 
 For failed tests, bugs have been created in Jira with a priority level set:
-- for the *From* and *To* fields date format is not dd-mm-yyyy
-- user can save action when *From* and *To* fields input is a future date
+- for the *From* and *To* fields date format is not dd-mm-yyyy - medium priority, minor severity
+- user can save action when *From* and *To* fields input is a future date - medium priority, minor severity
 
 API tests are executed in Postman based on the checklist mentioned above. The collection used can be found here:
 [Postman_collection of requests created for the Employee Work Experience API.json](https://github.com/danielatuia/manual_testing_portofolio/blob/main/Final%20Project/Postman_collection%20of%20requests%20created%20for%20the%20Employee%20Work%20Experience%20API.json)
