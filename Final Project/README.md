@@ -117,8 +117,7 @@ Risk identified in this phase: the application is unstable and has moments when 
 ## 1.6. Test Execution phase
 Test Execution phase is done based on the test planning and test cases prepared in Zephyr Squad.
 
-Here can be verified the status of executed test cases on the created Cycle Summary: 
-[Employee_work_experience_cycle_summary_execution.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8681203/Employee_work_experience_cycle_summary_execution.xlsx)
+Here can be verified the status of executed test cases on the created Cycle Summary: [Employee_work_experience_cycle_summary_execution.xlsx](https://github.com/danielatuia/manual_testing_portofolio/files/8838320/Employee_work_experience_cycle_summary_execution.xlsx)
 
 A complete bug report can be found here:
 [Employee_work_experience_bug_report.pdf](https://github.com/danielatuia/manual_testing_portofolio/files/8682066/Employee_work_experience_bug_report.pdf)
