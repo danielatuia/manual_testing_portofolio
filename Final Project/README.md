@@ -130,9 +130,10 @@ API tests are executed in Postman based on the checklist mentioned above. The co
 [Postman_collection of requests created for the Employee Work Experience API.json](https://github.com/danielatuia/manual_testing_portofolio/blob/main/Final%20Project/Postman_collection%20of%20requests%20created%20for%20the%20Employee%20Work%20Experience%20API.json)
 
 Failed API tests:
-- employee work experiece can be saved when using all accepted parameters - failed because of the date format
-- employee work experiece can be updated successfully with all accepted parameters - failed because of the date format
-- an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers
+- (POST) employee work experiece can be saved when using all accepted parameters - failed because of the date format 
+- (PUT) employee work experiece can be updated successfully with all accepted parameters - failed because of the date format 
+- (PUT) an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers 
+- (DELETE) an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers 
 
 Regression Testing is executed after the bugs are fixed, to confirm that changes in the code has not affected the existing features and the functionalities work fine.
 
