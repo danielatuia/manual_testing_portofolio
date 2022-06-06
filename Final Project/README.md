@@ -133,7 +133,6 @@ Failed API tests:
 - employee work experiece can be saved when using all accepted parameters - failed because of the date format
 - employee work experiece can be updated successfully with all accepted parameters - failed because of the date format
 - an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers
-- an error is returned when sending invalid data type for "seqId" parameter - failed because the inputs accepted are not only numbers
 
 Regression Testing is executed after the bugs are fixed, to confirm that changes in the code has not affected the existing features and the functionalities work fine.
 
