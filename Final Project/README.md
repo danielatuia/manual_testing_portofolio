@@ -18,6 +18,7 @@ For my final project I chose Qualifications – Work Experience section. The Sto
 ***As a user I want to be able to add my Work Experience.***
 
 ![Story](https://user-images.githubusercontent.com/56273858/167291946-5a425123-3129-4ca7-9f0c-bc1ecb817815.jpg)
+
 ![Add Work Experience](https://user-images.githubusercontent.com/56273858/208245068-be28b8b1-6c0c-4fb1-b2e2-f1f0d4df0847.jpg)
 
 
